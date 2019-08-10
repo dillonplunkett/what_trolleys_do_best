@@ -1,7 +1,7 @@
 # Overlooked Evidence and a Misunderstanding of What Trolley Dilemmas Do Best: A Comment on Bostyn, Sevenhant, & Roets (2018)
 [Dillon Plunkett](https://dillonplunkett.com) and [Joshua D. Greene](http://joshua-greene.net)
 
-Forthcoming in _Psychological Science_.
+Published in _Psychological Science_ on 30 July 2019: https://doi.org/10.1177/0956797619827914.
 
 This repository contains [the script](reanalysis.R) used in our reanalysis of
 [Bostyn, Sevenhant, & Roets (2018)](https://doi.org/10.1177/0956797617752640)'s
